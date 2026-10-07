@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" role="img" aria-label="Noppa · Planning">
+  <title>Noppa · Planning</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0"/>
+      <stop offset="0.35" stop-color="#20B0F0"/>
+      <stop offset="0.7" stop-color="#2060E0"/>
+      <stop offset="1" stop-color="#3A4FD0"/>
+    </linearGradient>
+    <linearGradient id="gh" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2060E0" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#g)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6" y="10" width="36" height="32" rx="4" fill="url(#gh)" stroke="url(#g)"/><line x1="6" y1="20" x2="42" y2="20"/><line x1="15" y1="6" x2="15" y2="14"/><line x1="33" y1="6" x2="33" y2="14"/><rect x="13" y="26" width="6" height="6" rx="1.2" fill="url(#g)" stroke="none"/><rect x="22" y="26" width="6" height="6" rx="1.2"/><rect x="31" y="26" width="6" height="6" rx="1.2"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" role="img" aria-label="Noppa · Proces">
+  <title>Noppa · Proces</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0"/>
+      <stop offset="0.35" stop-color="#20B0F0"/>
+      <stop offset="0.7" stop-color="#2060E0"/>
+      <stop offset="1" stop-color="#3A4FD0"/>
+    </linearGradient>
+    <linearGradient id="gh" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2060E0" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#g)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="url(#gh)" stroke="url(#g)" d="M19.71,2.42 L28.29,2.42 L26.93,9.29 L32.33,11.53 L36.22,5.71 L42.29,11.78 L36.47,15.67 L38.71,21.07 L45.58,19.71 L45.58,28.29 L38.71,26.93 L36.47,32.33 L42.29,36.22 L36.22,42.29 L32.33,36.47 L26.93,38.71 L28.29,45.58 L19.71,45.58 L21.07,38.71 L15.67,36.47 L11.78,42.29 L5.71,36.22 L11.53,32.33 L9.29,26.93 L2.42,28.29 L2.42,19.71 L9.29,21.07 L11.53,15.67 L5.71,11.78 L11.78,5.71 L15.67,11.53 L21.07,9.29 Z"/><circle cx="24" cy="24" r="7" fill="#fff" stroke="url(#g)"/><circle cx="24" cy="24" r="2.5" fill="url(#g)" stroke="none"/>
+  </g>
+</svg>

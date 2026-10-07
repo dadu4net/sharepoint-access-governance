@@ -1,0 +1,32 @@
+{
+  "name": "sharepoint-access-governance",
+  "version": "1.0.0",
+  "description": "Noppa SharePoint & Teams Access Governance & External Sharing Audit Portal",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3334",
+    "build": "next build",
+    "start": "next start -p 3334",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@azure/msal-browser": "^5.25.0",
+    "@azure/msal-react": "^5.7.2",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.474.0",
+    "next": "14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.16",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^5.7.3"
+  }
+}
