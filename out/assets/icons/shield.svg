@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" role="img" aria-label="Noppa · Beveiliging">
+  <title>Noppa · Beveiliging</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0"/>
+      <stop offset="0.35" stop-color="#20B0F0"/>
+      <stop offset="0.7" stop-color="#2060E0"/>
+      <stop offset="1" stop-color="#3A4FD0"/>
+    </linearGradient>
+    <linearGradient id="gh" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2060E0" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#g)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="url(#gh)" stroke="url(#g)" d="M24 4 L40 10 V22 C40 32 33 41 24 44 C15 41 8 32 8 22 V10 Z"/><path d="M17 24 L22 29 L31 19" stroke-width="2.8"/>
+  </g>
+</svg>
