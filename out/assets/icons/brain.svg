@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" role="img" aria-label="Noppa · Intelligentie">
+  <title>Noppa · Intelligentie</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0"/>
+      <stop offset="0.35" stop-color="#20B0F0"/>
+      <stop offset="0.7" stop-color="#2060E0"/>
+      <stop offset="1" stop-color="#3A4FD0"/>
+    </linearGradient>
+    <linearGradient id="gh" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2060E0" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#g)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="url(#gh)" stroke="url(#g)" d="M18 8 C12 8 8 12 8 18 C6 20 6 24 9 26 C8 30 12 34 16 33 C18 38 24 38 26 33 C30 34 34 30 33 26 C36 24 36 20 34 18 C34 12 30 8 24 8 Z"/><path d="M21 8 V38 M21 18 H15 M21 28 H15 M27 14 H32 M27 24 H33"/>
+  </g>
+</svg>

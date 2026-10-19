@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" role="img" aria-label="Noppa · Idee">
+  <title>Noppa · Idee</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0"/>
+      <stop offset="0.35" stop-color="#20B0F0"/>
+      <stop offset="0.7" stop-color="#2060E0"/>
+      <stop offset="1" stop-color="#3A4FD0"/>
+    </linearGradient>
+    <linearGradient id="gh" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D0F0" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2060E0" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#g)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="url(#gh)" stroke="url(#g)" d="M16 20 C16 13 19 8 24 8 C29 8 32 13 32 20 C32 25 29 27 28 30 H20 C19 27 16 25 16 20 Z"/><line x1="20" y1="34" x2="28" y2="34"/><line x1="21" y1="38" x2="27" y2="38"/><line x1="22" y1="42" x2="26" y2="42"/>
+  </g>
+</svg>
