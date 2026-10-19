@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "next dev -p 3334",
     "build": "next build",
+    "build:exe": "npm run build && powershell -NoProfile -Command \"Compress-Archive -Path out/* -DestinationPath desktop/wwwroot.zip -Force\" && dotnet publish desktop -c Release -r win-x64 --self-contained false -p:PublishSingleFile=true -o dist",
+    "build:exe:standalone": "npm run build && powershell -NoProfile -Command \"Compress-Archive -Path out/* -DestinationPath desktop/wwwroot.zip -Force\" && dotnet publish desktop -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -o dist/standalone",
     "start": "next start -p 3334",
     "lint": "next lint"
   },
